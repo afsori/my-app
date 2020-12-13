@@ -1,11 +1,6 @@
 {
   "posts": [
     {
-      "id": 2,
-      "title": "teknologi informasi",
-      "body": "lorem ipsum dolor si amet amet"
-    },
-    {
       "id": 3,
       "title": "teknologi informasi",
       "body": "lorem ipsum dolor si amet amet"
@@ -38,7 +33,22 @@
     {
       "id": 9,
       "title": "sit asperiores ipsam eveniet odio non quia",
-      "body": "inventore ab sint natus fugit id nulla sequi architecto nihil quaerat eos tenetur in in eum veritatis non quibusdam officiis aspernatur cumque aut commodi aut afsorii"
+      "body": "inventore ab sint natus fugit id nulla sequi architecto nihil quaerat eos tenetur in in eum veritatis non quibusdam officiis aspernatur cumque aut commodi aut afs"
+    },
+    {
+      "id": 1603203794213,
+      "title": "sada",
+      "body": "asd"
+    },
+    {
+      "title": "",
+      "body": "",
+      "id": 1603203794214
+    },
+    {
+      "title": "",
+      "body": "",
+      "id": 1603203794215
     }
   ]
 }
